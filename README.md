@@ -12,7 +12,7 @@ Begin with a [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseud
 
 They only need a handful of gates (or a few lines of code), looking something like this :
 
-![diagram of 16-bit Fibonacci LFSR](https://en.wikipedia.org/wiki/File:LFSR-F16.gif "16-bit Fibonacci LFSR")
+![diagram of 16-bit Fibonacci LFSR](https://upload.wikimedia.org/wikipedia/commons/1/16/LFSR-F16.gif "16-bit Fibonacci LFSR")
 
 *A 16-bit Fibonacci LFSR. The feedback tap numbers shown correspond to a primitive polynomial in the table, so the register cycles through the maximum number of 65535 states excluding the all-zeroes state. The state shown, 0xACE1 (hexadecimal) will be followed by 0x5670.*
 
